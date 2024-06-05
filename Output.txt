@@ -1,0 +1,5 @@
+Total number of Nodes: 146
+Total number of Edges: 146
+Diameter of the tree: 6
+Average Distance:5.023145961265942
+RUNTIME:1:04:19.357315
